@@ -1,0 +1,14 @@
+{
+	"name": "Website Bootstrap",
+	"description": "A default instalation",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.1.*",
+		"silverstripe/framework": "3.1.*",
+		"undefinedoffset/sortablegridfield": "dev-master"
+	},
+	"config": {
+		"process-timeout": 600	
+	},
+	"minimum-stability": "dev"
+}
